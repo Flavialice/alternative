@@ -1,0 +1,48 @@
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+15:56:39 **** Rebuild of configuration Debug for project hello ****
+Info: Internal Builder is used for build
+i586-poky-linux-g++ "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/upm" "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/mraa" -O0 -g3 -Wall -c -fmessage-length=0 "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -m32 -march=i586 -c -ffunction-sections -fdata-sections -o "src\\hello.o" "..\\src\\hello.cpp" 
+i586-poky-linux-g++ "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -lmraa -o hello "src\\hello.o" 
+16:05:53 **** Incremental Build of configuration Debug for project hello ****
+Info: Internal Builder is used for build
+i586-poky-linux-g++ "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -lmraa -o hello "src\\hello.o" 
+16:09:09 **** Incremental Build of configuration Debug for project helloworld ****
+Info: Internal Builder is used for build
+i586-poky-linux-g++ "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/upm" "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/mraa" -O0 -g3 -Wall -c -fmessage-length=0 "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -m32 -march=i586 -c -ffunction-sections -fdata-sections -o "src\\helloworld.o" "..\\src\\helloworld.cpp" 
+i586-poky-linux-g++ "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -lmraa -o helloworld "src\\helloworld.o" 
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+20:10:55 **** Incremental Build of configuration Debug for project helloworld ****
+Info: Internal Builder is used for build
+i586-poky-linux-g++ "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -lmraa -o helloworld "src\\helloworld.o" 
+e:/licenta/iotdk-ide-win/devkit-x86/sysroots/x86_64-pokysdk-mingw32/usr/bin/i586-poky-linux/../../libexec/i586-poky-linux/gcc/i586-poky-linux/4.8.2/ld.exe: cannot open output file helloworld: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+20:15:37 **** Rebuild of configuration Debug for project hello ****
+Info: Internal Builder is used for build
+i586-poky-linux-g++ "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/upm" "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/mraa" -O0 -g3 -Wall -c -fmessage-length=0 "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -m32 -march=i586 -c -ffunction-sections -fdata-sections -o "src\\hello.o" "..\\src\\hello.cpp" 
+i586-poky-linux-g++ "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -lmraa -o hello "src\\hello.o" 
+20:16:20 **** Incremental Build of configuration Debug for project hello ****
+Info: Internal Builder is used for build
+i586-poky-linux-g++ "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/upm" "-IE:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux/usr/include/mraa" -O0 -g3 -Wall -c -fmessage-length=0 "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -m32 -march=i586 -c -ffunction-sections -fdata-sections -o "src\\hello.o" "..\\src\\hello.cpp" 
+i586-poky-linux-g++ "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -lmraa -o hello "src\\hello.o" 
+Info: Nothing to build for hello
+Info: Nothing to build for hello
+Info: Nothing to build for hello
+Info: Nothing to build for hello

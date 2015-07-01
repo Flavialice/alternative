@@ -1,0 +1,477 @@
+cpufrequency is 399.075989 mhz
+nanoseconds per clock 2.505788
+started with binary=/sketch/sketch.elf Serial=/dev/pts/0
+checking platform_path [/sys/devices/platform/GalileoGen2]
+Running on a GalileoGen2 platform (/sys/devices/platform/GalileoGen2)
+sysfs-debug: sysfsGpioExport: gpio0
+sysfs-debug: sysfsGpioExport: gpio0
+sysfs-debug: sysfsGpioExport: gpio1
+sysfs-debug: sysfsGpioExport: gpio1
+sysfs-debug: sysfsGpioExport: gpio4
+sysfs-debug: sysfsGpioExport: gpio4
+sysfs-debug: sysfsGpioExport: gpio5
+sysfs-debug: sysfsGpioExport: gpio5
+sysfs-debug: sysfsGpioExport: gpio6
+sysfs-debug: sysfsGpioExport: gpio6
+sysfs-debug: sysfsGpioExport: gpio7
+sysfs-debug: sysfsGpioExport: gpio7
+sysfs-debug: sysfsGpioExport: gpio10
+sysfs-debug: sysfsGpioExport: gpio10
+sysfs-debug: sysfsGpioExport: gpio11
+sysfs-debug: sysfsGpioExport: gpio11
+sysfs-debug: sysfsGpioExport: gpio12
+sysfs-debug: sysfsGpioExport: gpio12
+sysfs-debug: sysfsGpioExport: gpio15
+sysfs-debug: sysfsGpioExport: gpio15
+sysfs-debug: sysfsGpioExport: gpio16
+sysfs-debug: sysfsGpioExport: gpio17
+sysfs-debug: sysfsGpioExport: gpio18
+sysfs-debug: sysfsGpioExport: gpio19
+sysfs-debug: sysfsGpioExport: gpio20
+sysfs-debug: sysfsGpioExport: gpio21
+sysfs-debug: sysfsGpioExport: gpio22
+sysfs-debug: sysfsGpioExport: gpio23
+sysfs-debug: sysfsGpioExport: gpio24
+sysfs-debug: sysfsGpioExport: gpio25
+sysfs-debug: sysfsGpioExport: gpio26
+sysfs-debug: sysfsGpioExport: gpio27
+sysfs-debug: sysfsGpioExport: gpio28
+sysfs-debug: sysfsGpioExport: gpio29
+sysfs-debug: sysfsGpioExport: gpio30
+sysfs-debug: sysfsGpioExport: gpio31
+sysfs-debug: sysfsGpioExport: gpio32
+sysfs-debug: sysfsGpioExport: gpio33
+sysfs-debug: sysfsGpioExport: gpio34
+sysfs-debug: sysfsGpioExport: gpio35
+sysfs-debug: sysfsGpioExport: gpio36
+sysfs-debug: sysfsGpioExport: gpio37
+sysfs-debug: sysfsGpioExport: gpio38
+sysfs-debug: sysfsGpioExport: gpio39
+sysfs-debug: sysfsGpioExport: gpio40
+sysfs-debug: sysfsGpioExport: gpio41
+sysfs-debug: sysfsGpioExport: gpio42
+sysfs-debug: sysfsGpioExport: gpio43
+sysfs-debug: sysfsGpioExport: gpio44
+sysfs-debug: sysfsGpioExport: gpio45
+sysfs-debug: sysfsGpioExport: gpio46
+sysfs-debug: sysfsGpioExport: gpio48
+sysfs-debug: sysfsGpioExport: gpio49
+sysfs-debug: sysfsGpioExport: gpio50
+sysfs-debug: sysfsGpioExport: gpio51
+sysfs-debug: sysfsGpioExport: gpio52
+sysfs-debug: sysfsGpioExport: gpio53
+sysfs-debug: sysfsGpioExport: gpio54
+sysfs-debug: sysfsGpioExport: gpio55
+sysfs-debug: sysfsGpioExport: gpio56
+sysfs-debug: sysfsGpioExport: gpio57
+sysfs-debug: sysfsGpioExport: gpio58
+sysfs-debug: sysfsGpioExport: gpio59
+sysfs-debug: sysfsGpioExport: gpio60
+sysfs-debug: sysfsGpioExport: gpio61
+sysfs-debug: sysfsGpioExport: gpio13
+sysfs-debug: sysfsGpioExport: gpio62
+sysfs-debug: sysfsGpioExport: gpio14
+sysfs-debug: sysfsGpioExport: gpio64
+sysfs-debug: sysfsGpioExport: gpio66
+sysfs-debug: sysfsGpioExport: gpio68
+sysfs-debug: sysfsGpioExport: gpio70
+sysfs-debug: sysfsGpioExport: gpio72
+sysfs-debug: sysfsGpioExport: gpio74
+sysfs-debug: sysfsGpioExport: gpio76
+sysfs-debug: sysfsGpioExport: gpio77
+sysfs-debug: sysfsGpioExport: gpio78
+sysfs-debug: sysfsGpioExport: gpio79
+sysfs-debug: sysfsGpioSetDrive: gpio0, mode=3
+sysfs-debug: sysfsGpioDirection: gpio0, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio0, mode=3
+sysfs-debug: sysfsGpioDirection: gpio0, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio1, mode=3
+sysfs-debug: sysfsGpioDirection: gpio1, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio1, mode=3
+sysfs-debug: sysfsGpioDirection: gpio1, output=0, outval=-1
+wiring_digital-info: pinInit gpiolib 2 is not a candidate for direction configuration
+wiring_digital-info: pinInit gpiolib 3 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio4, mode=3
+sysfs-debug: sysfsGpioDirection: gpio4, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio4, mode=3
+sysfs-debug: sysfsGpioDirection: gpio4, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio5, mode=3
+sysfs-debug: sysfsGpioDirection: gpio5, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio5, mode=3
+sysfs-debug: sysfsGpioDirection: gpio5, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio6, mode=3
+sysfs-debug: sysfsGpioDirection: gpio6, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio6, mode=3
+sysfs-debug: sysfsGpioDirection: gpio6, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio7, mode=3
+sysfs-debug: sysfsGpioDirection: gpio7, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio7, mode=3
+sysfs-debug: sysfsGpioDirection: gpio7, output=0, outval=-1
+wiring_digital-info: pinInit gpiolib 8 is not a candidate for direction configuration
+wiring_digital-info: pinInit gpiolib 9 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio10, mode=3
+sysfs-debug: sysfsGpioDirection: gpio10, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio10, mode=3
+sysfs-debug: sysfsGpioDirection: gpio10, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio11, mode=3
+sysfs-debug: sysfsGpioDirection: gpio11, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio11, mode=3
+sysfs-debug: sysfsGpioDirection: gpio11, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio12, mode=3
+sysfs-debug: sysfsGpioDirection: gpio12, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio12, mode=3
+sysfs-debug: sysfsGpioDirection: gpio12, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio15, mode=3
+sysfs-debug: sysfsGpioDirection: gpio15, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio15, mode=3
+sysfs-debug: sysfsGpioDirection: gpio15, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio16, mode=0
+sysfs-debug: sysfsGpioDirection: gpio16, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio17, mode=3
+sysfs-debug: sysfsGpioDirection: gpio17, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio18, mode=0
+sysfs-debug: sysfsGpioDirection: gpio18, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio19, mode=3
+sysfs-debug: sysfsGpioDirection: gpio19, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio20, mode=0
+sysfs-debug: sysfsGpioDirection: gpio20, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio21, mode=3
+sysfs-debug: sysfsGpioDirection: gpio21, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio22, mode=0
+sysfs-debug: sysfsGpioDirection: gpio22, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio23, mode=3
+sysfs-debug: sysfsGpioDirection: gpio23, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio24, mode=0
+sysfs-debug: sysfsGpioDirection: gpio24, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio25, mode=3
+sysfs-debug: sysfsGpioDirection: gpio25, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio26, mode=0
+sysfs-debug: sysfsGpioDirection: gpio26, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio27, mode=3
+sysfs-debug: sysfsGpioDirection: gpio27, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio28, mode=0
+sysfs-debug: sysfsGpioDirection: gpio28, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio29, mode=3
+sysfs-debug: sysfsGpioDirection: gpio29, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio30, mode=0
+sysfs-debug: sysfsGpioDirection: gpio30, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio31, mode=3
+sysfs-debug: sysfsGpioDirection: gpio31, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio32, mode=0
+sysfs-debug: sysfsGpioDirection: gpio32, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio33, mode=3
+sysfs-debug: sysfsGpioDirection: gpio33, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio34, mode=0
+sysfs-debug: sysfsGpioDirection: gpio34, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio35, mode=3
+sysfs-debug: sysfsGpioDirection: gpio35, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio36, mode=0
+sysfs-debug: sysfsGpioDirection: gpio36, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio37, mode=3
+sysfs-debug: sysfsGpioDirection: gpio37, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio38, mode=3
+sysfs-debug: sysfsGpioDirection: gpio38, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio39, mode=3
+sysfs-debug: sysfsGpioDirection: gpio39, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio40, mode=3
+sysfs-debug: sysfsGpioDirection: gpio40, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio41, mode=3
+sysfs-debug: sysfsGpioDirection: gpio41, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio42, mode=0
+sysfs-debug: sysfsGpioDirection: gpio42, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio43, mode=3
+sysfs-debug: sysfsGpioDirection: gpio43, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio44, mode=0
+sysfs-debug: sysfsGpioDirection: gpio44, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio45, mode=0
+sysfs-debug: sysfsGpioDirection: gpio45, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio46, mode=0
+sysfs-debug: sysfsGpioDirection: gpio46, output=1, outval=0
+wiring_digital-info: pinInit gpiolib 47 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio48, mode=1
+sysfs-debug: sysfsGpioDirection: gpio48, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio49, mode=3
+sysfs-debug: sysfsGpioDirection: gpio49, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio50, mode=1
+sysfs-debug: sysfsGpioDirection: gpio50, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio51, mode=3
+sysfs-debug: sysfsGpioDirection: gpio51, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio52, mode=1
+sysfs-debug: sysfsGpioDirection: gpio52, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio53, mode=3
+sysfs-debug: sysfsGpioDirection: gpio53, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio54, mode=1
+sysfs-debug: sysfsGpioDirection: gpio54, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio55, mode=3
+sysfs-debug: sysfsGpioDirection: gpio55, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio56, mode=1
+sysfs-debug: sysfsGpioDirection: gpio56, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio57, mode=3
+sysfs-debug: sysfsGpioDirection: gpio57, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio58, mode=1
+sysfs-debug: sysfsGpioDirection: gpio58, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio59, mode=3
+sysfs-debug: sysfsGpioDirection: gpio59, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio60, mode=0
+sysfs-debug: sysfsGpioDirection: gpio60, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio61, mode=3
+sysfs-debug: sysfsGpioDirection: gpio61, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio13, mode=3
+sysfs-debug: sysfsGpioDirection: gpio13, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio62, mode=3
+sysfs-debug: sysfsGpioDirection: gpio62, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio14, mode=3
+sysfs-debug: sysfsGpioDirection: gpio14, output=0, outval=-1
+wiring_digital-info: pinInit gpiolib 63 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio64, mode=0
+sysfs-debug: sysfsGpioDirection: gpio64, output=1, outval=0
+wiring_digital-info: pinInit gpiolib 65 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio66, mode=0
+sysfs-debug: sysfsGpioDirection: gpio66, output=1, outval=0
+wiring_digital-info: pinInit gpiolib 67 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio68, mode=0
+sysfs-debug: sysfsGpioDirection: gpio68, output=1, outval=0
+wiring_digital-info: pinInit gpiolib 69 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio70, mode=0
+sysfs-debug: sysfsGpioDirection: gpio70, output=1, outval=0
+wiring_digital-info: pinInit gpiolib 71 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio72, mode=0
+sysfs-debug: sysfsGpioDirection: gpio72, output=1, outval=0
+wiring_digital-info: pinInit gpiolib 73 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio74, mode=0
+sysfs-debug: sysfsGpioDirection: gpio74, output=1, outval=0
+wiring_digital-info: pinInit gpiolib 75 is not a candidate for direction configuration
+sysfs-debug: sysfsGpioSetDrive: gpio76, mode=0
+sysfs-debug: sysfsGpioDirection: gpio76, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio77, mode=0
+sysfs-debug: sysfsGpioDirection: gpio77, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio78, mode=0
+sysfs-debug: sysfsGpioDirection: gpio78, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio79, mode=0
+sysfs-debug: sysfsGpioDirection: gpio79, output=1, outval=0
+mux-debug: muxInit: setting up mux for gpio0
+mux-info: muxSelect: mux_sel gpio66:=0 (arduino_pin=5)
+sysfs-debug: sysfsGpioDirection: gpio66, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio66, mode=2
+mux-info: muxSelect: mux_sel gpio18:=1 (arduino_pin=5)
+sysfs-debug: sysfsGpioDirection: gpio18, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio18, mode=2
+mux-info: muxSelect: mux_sel gpio19:=4294967295 (arduino_pin=5)
+sysfs-debug: sysfsGpioDirection: gpio19, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio19, mode=3
+mux-debug: muxInit: setting up mux for gpio1
+mux-info: muxSelect: mux_sel gpio68:=0 (arduino_pin=6)
+sysfs-debug: sysfsGpioDirection: gpio68, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio68, mode=2
+mux-info: muxSelect: mux_sel gpio20:=1 (arduino_pin=6)
+sysfs-debug: sysfsGpioDirection: gpio20, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio20, mode=2
+mux-info: muxSelect: mux_sel gpio21:=4294967295 (arduino_pin=6)
+sysfs-debug: sysfsGpioDirection: gpio21, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio21, mode=3
+mux-debug: muxInit: setting up mux for gpio4
+mux-info: muxSelect: mux_sel gpio70:=0 (arduino_pin=9)
+sysfs-debug: sysfsGpioDirection: gpio70, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio70, mode=2
+mux-info: muxSelect: mux_sel gpio22:=1 (arduino_pin=9)
+sysfs-debug: sysfsGpioDirection: gpio22, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio22, mode=2
+mux-info: muxSelect: mux_sel gpio23:=4294967295 (arduino_pin=9)
+sysfs-debug: sysfsGpioDirection: gpio23, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio23, mode=3
+mux-debug: muxInit: setting up mux for gpio5
+mux-info: muxSelect: mux_sel gpio44:=0 (arduino_pin=11)
+sysfs-debug: sysfsGpioDirection: gpio44, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio44, mode=2
+mux-info: muxSelect: mux_sel gpio72:=0 (arduino_pin=11)
+sysfs-debug: sysfsGpioDirection: gpio72, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio72, mode=2
+mux-info: muxSelect: mux_sel gpio24:=1 (arduino_pin=11)
+sysfs-debug: sysfsGpioDirection: gpio24, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio24, mode=2
+mux-info: muxSelect: mux_sel gpio25:=4294967295 (arduino_pin=11)
+sysfs-debug: sysfsGpioDirection: gpio25, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio25, mode=3
+mux-debug: muxInit: setting up mux for gpio6
+mux-info: muxSelect: mux_sel gpio36:=1 (arduino_pin=4)
+sysfs-debug: sysfsGpioDirection: gpio36, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio36, mode=2
+mux-info: muxSelect: mux_sel gpio37:=4294967295 (arduino_pin=4)
+sysfs-debug: sysfsGpioDirection: gpio37, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio37, mode=3
+mux-debug: muxInit: setting up mux for gpio7
+mux-info: muxSelect: mux_sel gpio46:=0 (arduino_pin=13)
+sysfs-debug: sysfsGpioDirection: gpio46, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio46, mode=2
+mux-info: muxSelect: mux_sel gpio30:=1 (arduino_pin=13)
+sysfs-debug: sysfsGpioDirection: gpio30, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio30, mode=2
+mux-info: muxSelect: mux_sel gpio31:=4294967295 (arduino_pin=13)
+sysfs-debug: sysfsGpioDirection: gpio31, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio31, mode=3
+mux-debug: muxInit: setting up mux for gpio10
+mux-info: muxSelect: mux_sel gpio74:=0 (arduino_pin=10)
+sysfs-debug: sysfsGpioDirection: gpio74, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio74, mode=2
+mux-info: muxSelect: mux_sel gpio26:=1 (arduino_pin=10)
+sysfs-debug: sysfsGpioDirection: gpio26, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio26, mode=2
+mux-info: muxSelect: mux_sel gpio27:=4294967295 (arduino_pin=10)
+sysfs-debug: sysfsGpioDirection: gpio27, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio27, mode=3
+mux-debug: muxInit: setting up mux for gpio11
+mux-info: muxSelect: mux_sel gpio32:=1 (arduino_pin=0)
+sysfs-debug: sysfsGpioDirection: gpio32, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio32, mode=2
+mux-info: muxSelect: mux_sel gpio33:=4294967295 (arduino_pin=0)
+sysfs-debug: sysfsGpioDirection: gpio33, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio33, mode=3
+mux-debug: muxInit: setting up mux for gpio12
+mux-info: muxSelect: mux_sel gpio45:=0 (arduino_pin=1)
+sysfs-debug: sysfsGpioDirection: gpio45, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio45, mode=2
+mux-info: muxSelect: mux_sel gpio28:=1 (arduino_pin=1)
+sysfs-debug: sysfsGpioDirection: gpio28, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio28, mode=2
+mux-info: muxSelect: mux_sel gpio29:=4294967295 (arduino_pin=1)
+sysfs-debug: sysfsGpioDirection: gpio29, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio29, mode=3
+mux-debug: muxInit: setting up mux for gpio15
+mux-info: muxSelect: mux_sel gpio42:=1 (arduino_pin=12)
+sysfs-debug: sysfsGpioDirection: gpio42, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio42, mode=2
+mux-info: muxSelect: mux_sel gpio43:=4294967295 (arduino_pin=12)
+sysfs-debug: sysfsGpioDirection: gpio43, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio43, mode=3
+mux-debug: muxInit: setting up mux for gpio38
+mux-info: muxSelect: mux_sel gpio39:=4294967295 (arduino_pin=7)
+sysfs-debug: sysfsGpioDirection: gpio39, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio39, mode=3
+mux-debug: muxInit: setting up mux for gpio40
+mux-info: muxSelect: mux_sel gpio41:=4294967295 (arduino_pin=8)
+sysfs-debug: sysfsGpioDirection: gpio41, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio41, mode=3
+mux-debug: muxInit: setting up mux for gpio48
+mux-info: muxSelect: mux_sel gpio49:=4294967295 (arduino_pin=14)
+sysfs-debug: sysfsGpioDirection: gpio49, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio49, mode=3
+mux-debug: muxInit: setting up mux for gpio50
+mux-info: muxSelect: mux_sel gpio51:=4294967295 (arduino_pin=15)
+sysfs-debug: sysfsGpioDirection: gpio51, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio51, mode=3
+mux-debug: muxInit: setting up mux for gpio52
+mux-info: muxSelect: mux_sel gpio53:=4294967295 (arduino_pin=16)
+sysfs-debug: sysfsGpioDirection: gpio53, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio53, mode=3
+mux-debug: muxInit: setting up mux for gpio54
+mux-info: muxSelect: mux_sel gpio55:=4294967295 (arduino_pin=17)
+sysfs-debug: sysfsGpioDirection: gpio55, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio55, mode=3
+mux-debug: muxInit: setting up mux for gpio56
+mux-info: muxSelect: mux_sel gpio78:=1 (arduino_pin=18)
+sysfs-debug: sysfsGpioDirection: gpio78, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio78, mode=2
+mux-info: muxSelect: mux_sel gpio60:=1 (arduino_pin=18)
+sysfs-debug: sysfsGpioDirection: gpio60, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio60, mode=2
+mux-info: muxSelect: mux_sel gpio57:=4294967295 (arduino_pin=18)
+sysfs-debug: sysfsGpioDirection: gpio57, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio57, mode=3
+mux-debug: muxInit: setting up mux for gpio58
+mux-info: muxSelect: mux_sel gpio79:=1 (arduino_pin=19)
+sysfs-debug: sysfsGpioDirection: gpio79, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio79, mode=2
+mux-info: muxSelect: mux_sel gpio60:=1 (arduino_pin=19)
+sysfs-debug: sysfsGpioDirection: gpio60, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio60, mode=2
+mux-info: muxSelect: mux_sel gpio59:=4294967295 (arduino_pin=19)
+sysfs-debug: sysfsGpioDirection: gpio59, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio59, mode=3
+mux-debug: muxInit: setting up mux for gpio61
+mux-info: muxSelect: mux_sel gpio77:=0 (arduino_pin=2)
+sysfs-debug: sysfsGpioDirection: gpio77, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio77, mode=2
+mux-info: muxSelect: mux_sel gpio34:=1 (arduino_pin=2)
+sysfs-debug: sysfsGpioDirection: gpio34, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio34, mode=2
+mux-info: muxSelect: mux_sel gpio35:=4294967295 (arduino_pin=2)
+sysfs-debug: sysfsGpioDirection: gpio35, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio35, mode=3
+mux-debug: muxInit: setting up mux for gpio62
+mux-info: muxSelect: mux_sel gpio64:=0 (arduino_pin=3)
+sysfs-debug: sysfsGpioDirection: gpio64, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio64, mode=2
+mux-info: muxSelect: mux_sel gpio76:=0 (arduino_pin=3)
+sysfs-debug: sysfsGpioDirection: gpio76, output=1, outval=0
+sysfs-debug: sysfsGpioSetDrive: gpio76, mode=2
+mux-info: muxSelect: mux_sel gpio16:=1 (arduino_pin=3)
+sysfs-debug: sysfsGpioDirection: gpio16, output=1, outval=1
+sysfs-debug: sysfsGpioSetDrive: gpio16, mode=2
+mux-info: muxSelect: mux_sel gpio17:=4294967295 (arduino_pin=3)
+sysfs-debug: sysfsGpioDirection: gpio17, output=0, outval=-1
+sysfs-debug: sysfsGpioSetDrive: gpio17, mode=3
+fast_gpio_common-debug: Found UIO entry at /sys/class/uio/uio0
+
+fast_gpio_common-debug: Found UIO entry at /sys/class/uio/uio1
+
+fast_gpio_common-debug: Match found for UIO device 'gpio uio'
+
+fast_gpio_sc-debug: successfully mapped /dev/uio1 size 4096 handle 86
+fast_gpio_common-debug: Found UIO entry at /sys/class/uio/uio0
+
+fast_gpio_common-debug: Match found for UIO device 'sch_gpio'
+
+fast_gpio_nc-debug: Requesting access to 64 I/O ports starting at 0x1080
+
+fast_gpio_nc-debug: Initialised PIO on UIO 0 size 64 baseport 0x1080
+
+sysfs-debug: sysfsPwmExport: pwm=1
+sysfs-debug: sysfsPwmExport: pwm=1, handle_enable=0x57, handle_duty=0x58
+sysfs-debug: sysfsPwmDisable: handle_enable=0x57
+wiring_analog-debug: i=0 ulPWMId=1, iHandleEnable=0x57, iHandleDuty=0x58
+sysfs-debug: sysfsPwmExport: pwm=3
+sysfs-debug: sysfsPwmExport: pwm=3, handle_enable=0x59, handle_duty=0x5a
+sysfs-debug: sysfsPwmDisable: handle_enable=0x59
+wiring_analog-debug: i=1 ulPWMId=3, iHandleEnable=0x59, iHandleDuty=0x5a
+sysfs-debug: sysfsPwmExport: pwm=5
+sysfs-debug: sysfsPwmExport: pwm=5, handle_enable=0x5b, handle_duty=0x5c
+sysfs-debug: sysfsPwmDisable: handle_enable=0x5b
+wiring_analog-debug: i=2 ulPWMId=5, iHandleEnable=0x5b, iHandleDuty=0x5c
+sysfs-debug: sysfsPwmExport: pwm=7
+sysfs-debug: sysfsPwmExport: pwm=7, handle_enable=0x5d, handle_duty=0x5e
+sysfs-debug: sysfsPwmDisable: handle_enable=0x5d
+wiring_analog-debug: i=3 ulPWMId=7, iHandleEnable=0x5d, iHandleDuty=0x5e
+sysfs-debug: sysfsPwmExport: pwm=9
+sysfs-debug: sysfsPwmExport: pwm=9, handle_enable=0x5f, handle_duty=0x60
+sysfs-debug: sysfsPwmDisable: handle_enable=0x5f
+wiring_analog-debug: i=4 ulPWMId=9, iHandleEnable=0x5f, iHandleDuty=0x60
+sysfs-debug: sysfsPwmExport: pwm=11
+sysfs-debug: sysfsPwmExport: pwm=11, handle_enable=0x61, handle_duty=0x62
+sysfs-debug: sysfsPwmDisable: handle_enable=0x61
+wiring_analog-debug: i=5 ulPWMId=11, iHandleEnable=0x61, iHandleDuty=0x62
+sysfs-debug: sysfsAdcExport: adc=0
+sysfs-debug: sysfsAdcExport: adc=0, handle=99
+wiring_analog-debug: adc=0 iHandle=99
+sysfs-debug: sysfsAdcExport: adc=1
+sysfs-debug: sysfsAdcExport: adc=1, handle=100
+wiring_analog-debug: adc=1 iHandle=100
+sysfs-debug: sysfsAdcExport: adc=2
+sysfs-debug: sysfsAdcExport: adc=2, handle=101
+wiring_analog-debug: adc=2 iHandle=101
+sysfs-debug: sysfsAdcExport: adc=3
+sysfs-debug: sysfsAdcExport: adc=3, handle=102
+wiring_analog-debug: adc=3 iHandle=102
+sysfs-debug: sysfsAdcExport: adc=4
+sysfs-debug: sysfsAdcExport: adc=4, handle=103
+wiring_analog-debug: adc=4 iHandle=103
+sysfs-debug: sysfsAdcExport: adc=5
+sysfs-debug: sysfsAdcExport: adc=5, handle=104
+wiring_analog-debug: adc=5 iHandle=104
+interrupt-info: hpet_info: hi_irqfreq 0x0 hi_flags 0x0 hi_hpet 0 hi_timer 2
+EthernetClass-info: lo  address family: 17 (AF_PACKET)
+EthernetClass-info: eth0  address family: 17 (AF_PACKET)
+EthernetClass-info: lo  address family: 2 (AF_INET)
+EthernetClass-info: eth0  address family: 2 (AF_INET)
+EthernetClass-info: 	address: <192.168.0.101>
+EthernetClass-info: lo  address family: 10 (AF_INET6)
+EthernetClass-info: eth0  address family: 10 (AF_INET6)

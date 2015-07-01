@@ -1,0 +1,8 @@
+20:10:55 **** Incremental Build of configuration Debug for project helloworld ****
+Info: Internal Builder is used for build
+i586-poky-linux-g++ "--sysroot=E:\\licenta\\iotdk-ide-win\\devkit-x86\\sysroots\\i586-poky-linux" -lmraa -o helloworld "src\\helloworld.o" 
+e:/licenta/iotdk-ide-win/devkit-x86/sysroots/x86_64-pokysdk-mingw32/usr/bin/i586-poky-linux/../../libexec/i586-poky-linux/gcc/i586-poky-linux/4.8.2/ld.exe: cannot open output file helloworld: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+20:10:56 Build Finished (took 1s.84ms)
+
